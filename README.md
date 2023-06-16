@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 #### 📛 My name is Joshua Smith
-#### 🔭 I'm currently working on a Roblox game called 'Galactic Obby'
-#### 🌱 I'm currently learning C# and Lua
-#### 👯 I'm looking to collaborate on some more projects for Solus Studios
+#### 🔭 I'm currently working on CheckIn
+#### 🌱 I'm currently learning C# and JS
+#### 👯 I'm looking to collaborate on some more projects for KDBros
 
 
 <!--
